@@ -16,11 +16,8 @@ module.exports = async function (req, res, next) {
       return next(BaseError.Unauthorized())
     }
 
-    console.log("🔑 Token received in middleware:", token)
-    console.log("🔐 JWT_SECRET in server:", process.env.JWT_SECRET)
 
     const decoded = jwt.verify(token, process.env.JWT_SECRET)
-    console.log("📝 Decoded token:", decoded)
 
     if (!decoded.userId) {
       console.warn("⚠️ Token does not contain userId")

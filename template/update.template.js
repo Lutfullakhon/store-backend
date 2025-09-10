@@ -103,7 +103,7 @@ function updateTemplate({ user, product, status }) {
         <div class="footer">
             <p>Thank you for shopping with us!</p>
             <p>
-                Need help? <a href="mailto:sammibadriddinov@gmail.com">Contact Support</a>
+                Need help? <a href="mailto:lutfullaxon@gmail.com">Contact Support</a>
             </p>
         </div>
     </div>

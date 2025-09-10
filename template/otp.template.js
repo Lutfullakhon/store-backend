@@ -69,7 +69,7 @@ function otpTemplate(otp) {
         <div class="footer">
             <p>Thank you for using our service!</p>
             <p>
-                Need help? <a href="mailto:support@example.com">Contact Support</a>
+                Need help? <a href="mailto:lutfullaxonanvarov@gmail.com.com">Contact Support</a>
             </p>
         </div>
     </div>

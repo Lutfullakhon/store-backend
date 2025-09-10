@@ -96,7 +96,7 @@ function cancelTemplate({ user, product }) {
         <div class="footer">
             <p>We hope to serve you better in the future!</p>
             <p>
-                Need help? <a href="mailto:sammibadriddinov@gmail.com">Contact Support</a>
+                Need help? <a href="mailto:lutfullaxon@gmail.com">Contact Support</a>
             </p>
         </div>
     </div>
